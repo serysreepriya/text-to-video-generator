@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+torch
+transformers
+diffusers
+moviepy
+opencv-python
+pillow
+numpy
+python-dotenv
+requests
